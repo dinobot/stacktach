@@ -1,6 +1,14 @@
+stacktach (1.0-2) precise-havana; urgency=low
+
+  * Merged with upstream/stable
+
+ -- Danil Akhmetov <dinobot@yandex-team.ru>  Wed, 27 May 2014 15:17:00 +0400
+
 stacktach (1.0-1) precise-havana; urgency=low
 
   * Added missed dependencies
+
+ -- Danil Akhmetov <dinobot@yandex-team.ru>  Wed, 26 May 2014 12:00:53 +0400
 
 stacktach (1.0) precise-havana; urgency=low
 
