@@ -27,6 +27,8 @@ case "$1" in
 		echo 'Almost done. Just mysql database and worker setup needed to go.'
 		echo 'Official how-to:'
 		echo 'https://media.readthedocs.org/pdf/stacktach/latest/stacktach.pdf'
+	   start stacktach
+	   service stacktach-worker start
     ;;
 
     abort-upgrade|abort-remove|abort-deconfigure)
