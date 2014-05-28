@@ -1,3 +1,9 @@
+stacktach (1.0-3) precise-havana; urgency=low
+
+  * autostart for stacktach frontend and worker added
+
+ -- Danil Akhmetov <dinobot@yandex-team.ru>  Wed, 27 May 2014 15:17:00 +0400
+
 stacktach (1.0-2) precise-havana; urgency=low
 
   * Merged with upstream/stable
